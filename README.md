@@ -14,14 +14,9 @@
   </a>
 </div>
 
-
-<h1>
-  Hey.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1>Hey.</h1>
 
 <img src="https://komarev.com/ghpvc/?username=jeromeexpert&style=flat-square&color=blue" alt=""/>
-
 
 ---
 
@@ -30,9 +25,7 @@
 The name's Jerome, you'll find me living in 🇲🇽/🇺🇸/🇬🇧.
 
 - I build web applications as a Front-end Developer.
-
 - In my free time, I enjoy long walks, nice food and good reads.
-
 
 ---
 
