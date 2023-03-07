@@ -1,16 +1,19 @@
-### Hi there 👋
+<div id="badges">
+  <a href="https://twitter.com/jerome_expert">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://codepen.io/jeromeexpert">
+    <img src="https://img.shields.io/badge/Codepen-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Codepen Badge"/>
+  </a>
+  <a href="https://steamcommunity.com/id/jeromeexpert">
+    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Steam Badge"/>
+  </a>
+</div>
 
-<!--
-**jeromeexpert/jeromeexpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>
+  Hi, welcome.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=jeromeexpert&style=flat-square&color=blue" alt=""/>
