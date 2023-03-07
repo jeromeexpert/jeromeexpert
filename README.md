@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://codepen.io/jeromeexpert">
-    <img src="https://img.shields.io/badge/Codepen-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Codepen Badge"/>
+    <img src="https://img.shields.io/badge/Codepen-blue?style=for-the-badge&logo=Codepen&logoColor=white" alt="Codepen Badge"/>
   </a>
   <a href="https://steamcommunity.com/id/jeromeexpert">
-    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Steam Badge"/>
+    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=Steam&logoColor=white" alt="Steam Badge"/>
   </a>
 </div>
 
