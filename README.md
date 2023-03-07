@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://pbs.twimg.com/profile_banners/1614266076702859264/1673708730/1500x500)" width="1500"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://pbs.twimg.com/profile_banners/1614266076702859264/1673708730/1500x500" width="1500"/>
 </div>
 
 <div id="badges">
@@ -16,7 +16,7 @@
 
 
 <h1>
-  Hi, welcome.
+  Hey.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
