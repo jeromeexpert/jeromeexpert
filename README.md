@@ -27,7 +27,7 @@
 
 ### About Me:
 
-The name's Jerome, you'll find me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in 🇲🇽/🇺🇸/🇬🇧.
+The name's Jerome, you'll find me living in 🇲🇽/🇺🇸/🇬🇧.
 
 - I build web applications as a Front-end Developer.
 
@@ -36,7 +36,7 @@ The name's Jerome, you'll find me <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-### :hammer_and_wrench: My Proficiencies:
+### My Proficiencies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
