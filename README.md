@@ -24,7 +24,7 @@
 
 The name's Jerome, you'll find me living in 🇲🇽/🇺🇸/🇬🇧.
 
-- I build web applications as a Front-end Developer.
+- I build web applications as a Full-stack Developer.
 - In my free time, I enjoy long walks, nice food and good reads.
 
 ---
